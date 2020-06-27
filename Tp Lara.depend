@@ -1,0 +1,146 @@
+# depslib dependency file v1.0
+1588279047 source:c:\users\cristian\desktop\cosas de la facultad\programación 2\tp lara\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<clocale>
+	"rlutil.h"
+	"estructuras.h"
+	"prototipos.h"
+	"funciones.h"
+
+1585333996 c:\users\cristian\desktop\cosas de la facultad\programación 2\tp lara\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1588289167 c:\users\cristian\desktop\cosas de la facultad\programación 2\tp lara\estructuras.h
+
+1588267840 c:\users\cristian\desktop\cosas de la facultad\programación 2\tp lara\prototipos.h
+
+1588281014 c:\users\cristian\desktop\cosas de la facultad\programación 2\tp lara\funciones.h
+
+1588615018 source:c:\users\cristian\desktop\cosas de la facultad\programación 2\tp lara parte 1\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<ctime>
+	<clocale>
+	"rlutil.h"
+	"estructuras.h"
+	"prototipos.h"
+	"funciones.h"
+
+1585333996 c:\users\cristian\desktop\cosas de la facultad\programación 2\tp lara parte 1\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1588544047 c:\users\cristian\desktop\cosas de la facultad\programación 2\tp lara parte 1\estructuras.h
+
+1588622693 c:\users\cristian\desktop\cosas de la facultad\programación 2\tp lara parte 1\prototipos.h
+
+1588623765 c:\users\cristian\desktop\cosas de la facultad\programación 2\tp lara parte 1\funciones.h
+
+1589330667 source:c:\users\cristian\desktop\cosas de la facultad\laboratorio 2\tp lara parte 1\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<ctime>
+	<clocale>
+	"rlutil.h"
+	"estructuras.h"
+	"prototipos.h"
+	"Funciones_Platos.h"
+	"Funciones_Clientes.h"
+	"Funciones_Pedidos.h"
+	"funciones.h"
+
+1585333996 c:\users\cristian\desktop\cosas de la facultad\laboratorio 2\tp lara parte 1\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1589315920 c:\users\cristian\desktop\cosas de la facultad\laboratorio 2\tp lara parte 1\estructuras.h
+
+1589335233 c:\users\cristian\desktop\cosas de la facultad\laboratorio 2\tp lara parte 1\prototipos.h
+
+1589334141 c:\users\cristian\desktop\cosas de la facultad\laboratorio 2\tp lara parte 1\funciones.h
+
+1589334141 c:\users\cristian\desktop\cosas de la facultad\laboratorio 2\tp lara parte 1\funciones_platos.h
+
+1589418678 c:\users\cristian\desktop\cosas de la facultad\laboratorio 2\tp lara parte 1\funciones_clientes.h
+
+1589771388 c:\users\cristian\desktop\cosas de la facultad\laboratorio 2\tp lara parte 1\funciones_pedidos.h
+
+1589330667 source:c:\users\cristian\desktop\cosas de la facultad\laboratorio 2\tp lara cristian iglesias\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<ctime>
+	<clocale>
+	"rlutil.h"
+	"estructuras.h"
+	"prototipos.h"
+	"Funciones_Platos.h"
+	"Funciones_Clientes.h"
+	"Funciones_Pedidos.h"
+	"funciones.h"
+
+1585333996 c:\users\cristian\desktop\cosas de la facultad\laboratorio 2\tp lara cristian iglesias\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1589315920 c:\users\cristian\desktop\cosas de la facultad\laboratorio 2\tp lara cristian iglesias\estructuras.h
+
+1589335233 c:\users\cristian\desktop\cosas de la facultad\laboratorio 2\tp lara cristian iglesias\prototipos.h
+
+1591226041 c:\users\cristian\desktop\cosas de la facultad\laboratorio 2\tp lara cristian iglesias\funciones_platos.h
+
+1589418678 c:\users\cristian\desktop\cosas de la facultad\laboratorio 2\tp lara cristian iglesias\funciones_clientes.h
+
+1589771388 c:\users\cristian\desktop\cosas de la facultad\laboratorio 2\tp lara cristian iglesias\funciones_pedidos.h
+
+1589334141 c:\users\cristian\desktop\cosas de la facultad\laboratorio 2\tp lara cristian iglesias\funciones.h
+
